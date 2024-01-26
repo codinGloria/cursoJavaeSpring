@@ -6,7 +6,7 @@ No treinamento é ensinado a dominar a linguagem de programação Java e o frame
 Ao final do treinamento, estarei apta a criar aplicações Java robustas e eficientes, aproveitando todo o potencial dessa linguagem versátil e amplamente utilizada.
 
 <br>
-<h4 align=center> Este curso é composto por 29 tópicos, listados abaixo: </h4>
+<h4 align=center> Este curso é composto por 30 tópicos, listados abaixo: </h4>
 <br>
 <h3> 1 - História do Java e Mercado de Trabalho </h3>
 
