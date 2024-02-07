@@ -28,8 +28,8 @@ Ao final do treinamento, estarei apta a criar aplicações Java robustas e efici
 
 <h3> 3 - Tipos de Dados e Operadores </h3>
 
-  - Variáveis e tipos de dados
-  - Operadores
+  - Variáveis e tipos de dados ✅
+  - Operadores ✅
   
 <br>
 
