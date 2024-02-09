@@ -35,8 +35,8 @@ Ao final do treinamento, estarei apta a criar aplicações Java robustas e efici
 
 <h3> 4 - Desvios condicionais e laços de repetição </h3>
 
-  - Condicionais
-  - Repetição
+  - Condicionais ✅
+  - Repetição ✅
 
 <br>
 
