@@ -42,8 +42,8 @@ Ao final do treinamento, estarei apta a criar aplicações Java robustas e efici
 
 <h3> 5 - Arrays </h3>
 
-  - Criação, length, forEach, AsList, List.of e Copy
-  - Fill, equals e sorted
+  - Criação, length, forEach, AsList, List.of e Copy ✅
+  - Fill, equals e sorted ✅
 
 <br>
 
