@@ -60,8 +60,8 @@ Ao final do treinamento, estarei apta a criar aplicações Java robustas e efici
 
 <h3> 7 - POO: Herança e Polimorfismo </h3>
 
-  - Herança
-  - Polimorfismo
+  - Herança ✅
+  - Polimorfismo ✅
 
 <br>
 
