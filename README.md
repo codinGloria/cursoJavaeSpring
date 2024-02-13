@@ -49,12 +49,12 @@ Ao final do treinamento, estarei apta a criar aplicações Java robustas e efici
 
 <h3> 6 - POO: O que é? Encapsulamento e abstração </h3>
 
-  - O que é programação orientada a objetos?
-  - Criando objetos e atributos
-  - Criando os métodos do nosso objeto
-  - Encapsulamento
-  - Abstração: Classe e métodos abstratos
-  - Abstração: Via interfaces
+  - O que é programação orientada a objetos? ✅
+  - Criando objetos e atributos ✅
+  - Criando os métodos do nosso objeto ✅
+  - Encapsulamento ✅
+  - Abstração: Classe e métodos abstratos ✅
+  - Abstração: Via interfaces ✅
 
 <br>
 
