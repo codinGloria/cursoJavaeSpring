@@ -75,10 +75,10 @@ Ao final do treinamento, estarei apta a criar aplicações Java robustas e efici
 
 <h3> 9 - Enums e elementos estáticos </h3>
 
-  - Trabalhando com Enums
-  - Static: campos / atributos estáticos
-  - Static: Métodos estáticos
-  - Static: Classes aninhadas estáticas
+  - Trabalhando com Enums ✅
+  - Static: campos / atributos estáticos ✅
+  - Static: Métodos estáticos ✅
+  - Static: Classes aninhadas estáticas ✅
     
 <br>
 
