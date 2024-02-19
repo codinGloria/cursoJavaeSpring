@@ -85,11 +85,11 @@ Ao final do treinamento, estarei apta a criar aplicações Java robustas e efici
 <h3> 10 - API de Collections e Generics </h3>
 
   - Por dentro da API de collections: hierarquia das classes e interfaces ✅
-  - Collections API - List: ArrayList, LinkedList, VectorList
-  - Collections API - Queue: Priority Queue
-  - Collections API - Set: HashSet, LinkedHashSet
-  - Collections API - Map: HashMap e HashTable
-  - Generics
+  - Collections API - List: ArrayList, LinkedList, VectorList ✅
+  - Collections API - Queue: Priority Queue ✅
+  - Collections API - Set: HashSet, LinkedHashSet ✅
+  - Collections API - Map: HashMap e HashTable ✅
+  - Generics ✅
 
 <br>
 
