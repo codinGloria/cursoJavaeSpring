@@ -95,11 +95,11 @@ Ao final do treinamento, estarei apta a criar aplicações Java robustas e efici
 
 <h3> 11 - Classe Object </h3>
 
-  - Conhecendo o pacote java.lang
-  - Classe Object
-  - toString()
-  - equals()
-  - HashCode()
+  - Conhecendo o pacote java.lang ✅
+  - Classe Object ✅
+  - toString() ✅
+  - equals() ✅
+  - HashCode() ✅
 
 <br>
 
