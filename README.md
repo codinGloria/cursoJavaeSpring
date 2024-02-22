@@ -105,12 +105,12 @@ Ao final do treinamento, estarei apta a criar aplicações Java robustas e efici
 
 <h3> 12 - Typecasting </h3>
 
-  - O que é typecasting?
-  - Widening Type Casting
-  - Narrowing Type Casting
-  - Upcasting
-  - Downcasting
-  - Autoboxing e Unboxing
+  - O que é typecasting? ✅
+  - Widening Type Casting ✅
+  - Narrowing Type Casting ✅
+  - Upcasting ✅
+  - Downcasting ✅
+  - Autoboxing e Unboxing ✅
 
 <br>
 
