@@ -116,9 +116,9 @@ Ao final do treinamento, estarei apta a criar aplicações Java robustas e efici
 
 <h3> 13 - Exceptions </h3>
 
-  - O que são exceptions?
-  - Checked Exceptions
-  - Unchecked Exceptions
+  - O que são exceptions? ✅
+  - Checked Exceptions ✅
+  - Unchecked Exceptions ✅
 
 <br>
 
